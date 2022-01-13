@@ -1,10 +1,10 @@
-# Proof of Custody material
+# Proof of Custody Materials
 
-# Introduction
+## Introduction
 * https://t.cj.sina.com.cn/articles/view/6487081523/182a9023302000q1bb?from=tech
 * https://www.youtube.com/watch?v=8Gsj5DXV-q0
 
-# Development Process
+## Development Process
 
 * Merkle tree form: 
     * https://ethresear.ch/t/extending-skin-in-the-game-of-notarization-with-proofs-of-custody/1639
@@ -30,5 +30,5 @@
     * https://github.com/ethereum/consensus-specs/pull/1705
     * https://github.com/ethereum/consensus-specs/tree/dev/specs/custody_game
 
-# Problems and Directions
+## Problems and Directions
 * https://sites.google.com/view/cryptofrontier21
