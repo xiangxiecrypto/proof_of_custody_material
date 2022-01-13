@@ -30,5 +30,5 @@
     * https://github.com/ethereum/consensus-specs/pull/1705
     * https://github.com/ethereum/consensus-specs/tree/dev/specs/custody_game
 
-# Problems And Directions
+# Problems and Directions
 * https://sites.google.com/view/cryptofrontier21
