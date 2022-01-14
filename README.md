@@ -30,5 +30,8 @@
     * https://github.com/ethereum/consensus-specs/pull/1705
     * https://github.com/ethereum/consensus-specs/tree/dev/specs/custody_game
 
+* MPC implementation:
+    * https://github.com/PlatONnetwork/proof_of_custody
+
 ## Problems and Directions
 * https://sites.google.com/view/cryptofrontier21
