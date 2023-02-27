@@ -35,3 +35,22 @@
 
 ## Problems and Directions
 * https://sites.google.com/view/cryptofrontier21
+
+## Overview of Distributed Validator Technology
+
+* Introduction
+    * https://medium.com/coinmonks/eth2-secret-shared-validators-85824df8cbc0
+    * https://blog.pantherprotocol.io/understanding-distributed-validator-technology-dvt/
+    * https://blog.obol.tech/what-is-dvt-and-how-does-it-improve-staking-on-ethereum/
+
+* Ethereum distributed validator specification
+    * https://github.com/ethereum/distributed-validator-specs
+
+* Formal specification and verification
+    * https://github.com/ConsenSys/distributed-validator-formal-specs-and-verification
+
+* Implementations
+    * Proof of concept of an Eth2 secret shared validator node: https://github.com/dankrad/python-ssv
+    * Secret-Shared-Validator(SSV) for ethereum staking: https://github.com/bloxapp/ssv
+    * Obol Network: https://docs.obol.tech ; https://github.com/ObolNetwork/charon
+    * ssv.network: https://ssv.network/tech/
